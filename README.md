@@ -130,4 +130,4 @@ If you found this project useful, please consider giving this repository a **sta
 ---
 
 ## 🤝 Connect
-Feel free to connect with me on **LinkedIn** or check out my other Power BI projects!
+Feel free to connect with me on **LinkedIn** www.linkedin.com/in/kishoree23 or check out my other Power BI projects!
