@@ -7,7 +7,7 @@ data analytics project showcasing blinkit sales analysis using sql and power Bi
 
 ## 📷 Dashboard Preview
 
-![Blinkit Sales Analysis Dashboard](assets/blinkit_dashbord_pdf-1)
+![Blinkit Sales Analysis Dashboard](assets/blinkit_dashbord_pdf-1.png)
 
 ## 🔍 Project Overview
 This repository contains an **interactive Power BI dashboard** developed to analyze **Blinkit (India’s Last Minute App)** sales data.  
